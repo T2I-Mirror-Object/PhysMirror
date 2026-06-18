@@ -1,0 +1,30 @@
+{
+  "caption": "A photo of a yellow dog in front of the mirror. The dog stands close to the mirror in soft indoor light, and its reflection appears clearly on the glass within a simple frame. The background is gently out of focus, drawing attention to the dog and the mirrored image.",
+  "seed": 53,
+  "segments_info": [
+    {
+      "color": [
+        31,
+        119,
+        180
+      ],
+      "text": "The mirror frame surrounding the reflective surface."
+    },
+    {
+      "color": [
+        174,
+        199,
+        232
+      ],
+      "text": "The shape of dog standing in front of the mirror. The shape is not absolutely correct, make it more realistic"
+    },
+    {
+      "color": [
+        255,
+        127,
+        14
+      ],
+      "text": "The dog's reflection visible inside the mirror."
+    }
+  ]
+}

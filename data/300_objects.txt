@@ -1,0 +1,300 @@
+sofa
+chair
+table
+coffee table
+dining table
+desk
+bookshelf
+cabinet
+wardrobe
+bed
+mattress
+pillow
+blanket
+bedsheet
+curtain
+rug
+lamp
+ceiling fan
+clock
+mirror
+television
+remote control
+speaker
+router
+laptop
+desktop computer
+keyboard
+mouse
+monitor
+printer
+scanner
+phone charger
+extension cord
+power strip
+vacuum cleaner
+broom
+mop
+dustpan
+bucket
+trash can
+laundry basket
+iron
+ironing board
+hanger
+washing machine
+dryer
+detergent bottle
+clothes rack
+sewing kit
+toolbox
+hammer
+screwdriver
+wrench
+pliers
+tape measure
+flashlight
+battery
+glue bottle
+scissors
+utility knife
+paint brush
+step ladder
+drill
+saw
+nails
+screws
+storage box
+plastic container
+basket
+safe
+refrigerator
+freezer
+microwave
+oven
+toaster
+blender
+rice cooker
+electric kettle
+coffee maker
+dishwasher
+frying pan
+saucepan
+pot
+pressure cooker
+cutting board
+knife
+fork
+spoon
+plate
+bowl
+cup
+mug
+glass
+water bottle
+thermos
+measuring cup
+colander
+spatula
+whisk
+tongs
+peeler
+can opener
+bottle opener
+food container
+lunch box
+napkin holder
+paper towel roll
+dish rack
+tray
+salt shaker
+pepper grinder
+sugar jar
+cookie jar
+bread box
+fruit basket
+egg tray
+ice cube tray
+apron
+oven mitt
+kitchen timer
+shower curtain
+toothbrush
+toothpaste
+soap dispenser
+shampoo bottle
+conditioner bottle
+towel
+bath mat
+toilet brush
+plunger
+toilet paper holder
+hair dryer
+razor
+comb
+hairbrush
+cotton swabs
+first aid kit
+medicine cabinet
+scale
+laundry detergent
+backpack
+suitcase
+wallet
+handbag
+umbrella
+raincoat
+shoe rack
+slippers
+coat rack
+key holder
+picture frame
+candle
+vase
+artificial plant
+flower pot
+calendar
+notebook
+pen
+pencil
+marker
+stapler
+tape dispenser
+envelope
+folder
+paper clip
+whiteboard
+bulletin board
+calculator
+glue stick
+sticky notes
+game console
+board game
+playing cards
+puzzle
+toy car
+stuffed animal
+doll
+yoga mat
+dumbbell
+treadmill
+bicycle
+helmet
+watering can
+garden hose
+plant sprayer
+rake
+shovel
+wheelbarrow
+bird feeder
+outdoor chair
+patio table
+grill
+charcoal bag
+cooler
+extension ladder
+door mat
+doormat
+window cleaner
+air purifier
+humidifier
+dehumidifier
+heater
+air conditioner
+fan
+smoke detector
+carbon monoxide detector
+security camera
+doorbell
+light bulb
+cushion
+bean bag
+ottoman
+tv stand
+nightstand
+dresser
+laundry hamper
+magazine rack
+cd rack
+wine rack
+coat hanger
+pencil sharpener
+eraser
+clipboard
+desk organizer
+alarm clock
+wall shelf
+phone stand
+tablet
+e-reader
+usb drive
+memory card
+headphones
+earbuds
+webcam
+microphone
+tripod
+camera
+photo album
+binoculars
+compass
+sunscreen bottle
+insect repellent
+reusable bag
+shopping cart
+pet bowl
+cat litter box
+dog leash
+aquarium
+bird cage
+pet bed
+baby stroller
+high chair
+baby monitor
+crib
+pacifier
+thermometer
+heating pad
+electric blanket
+diffuser
+incense holder
+soap bar
+hand sanitizer
+cleaning spray
+sponge
+scrub brush
+feather duster
+lint roller
+air freshener
+mousetrap
+water filter
+faucet
+shower head
+sink stopper
+toilet seat
+plates rack
+spice rack
+knife block
+tea infuser
+rolling pin
+mixing bowl
+soap dish
+tissue box
+curtain rod
+laundry clips
+drying rack
+bathrobe
+squeegee
+door stopper
+keychain
+floor cushion
+camping chair
+lantern
+tool belt
+meat thermometer
+pizza cutter
+cheese grater
+juicer
+mortar and pestle
+tea kettle
+serving spoon

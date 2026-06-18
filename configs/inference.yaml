@@ -1,0 +1,58 @@
+# ── Paths ──────────────────────────────────────────────────────────────────
+prompts_file:  data/prompts.txt
+depth_maps_dir: inference_result/depth_maps   # output of generate_depth_maps.py
+images_dir:    inference_result/images         # output of generate_images.py
+
+# ── Runtime ─────────────────────────────────────────────────────────────────
+device: null   # null = auto-detect (cuda if available, else cpu)
+
+# ── Stage 1: Text → 3D Mesh ──────────────────────────────────────────────────
+stage1:
+  mesh_model: trellis                          # "trellis" | "shap_e"
+  trellis_model_name: microsoft/TRELLIS-text-large
+  extractor: simple2                           # "simple" | "simple2"
+
+# ── Stage 2: Scene → Depth Map ───────────────────────────────────────────────
+stage2:
+  # Object placement
+  gap: 0.5
+  object_scale: 1.5
+  object_base_rotation: 180.0
+  random_rotation: false
+
+  # Mirror
+  mirror_gap_ahead: 1.7
+  mirror_gap_side:  2.0
+  mirror_gap_top:   2.0
+  mirror_thickness: 0.1
+  mirror_height:    null  # null = dynamic (sized to object). Set a value to fix height and auto-scale objects.
+
+  # Camera
+  camera_method: random_side    # "random_side" | "fixed_front"
+  camera_dist: 2.2
+  camera_elevation: 26.0
+  camera_look_at_height: 1.8
+  camera_azim_min: -10.0
+  camera_azim_max:  10.0
+
+  # Rendering
+  render_size: 1024
+
+  # Scene elements
+  include_floor:          true
+  include_walls:          true
+  include_mirror_frame:   true
+  include_mirror_surface: false
+  include_mirror_wall:    true
+
+# ── Stage 3: Depth Map → Image ───────────────────────────────────────────────
+stage3:
+  model_id:         black-forest-labs/FLUX.1-dev
+  lora_repo:        Yuanshi/OminiControl
+  lora_weight_name: experimental/depth.safetensors
+
+  width:          1024
+  height:         1024
+  steps:          28
+  guidance_scale: 3.5
+  seed:           42
