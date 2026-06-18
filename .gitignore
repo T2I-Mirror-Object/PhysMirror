@@ -1,18 +1,7 @@
 results/
+outputs/
+inference_result/
 shap_e_model_cache/
-
-ablation/camera_sensitivity/*.png
-ablation/camera_sensitivity/*.jpg
-ablation/camera_sensitivity/*.json
-ablation/camera_sensitivity/*.csv
-ablation/camera_sensitivity/configs/
-
-Seg2Any/ckpt
-Seg2Any/data
-Seg2Any/result
-
-SynMirror/
-synmirror_dataset/
 
 *.log
 *.pkl
