@@ -6,8 +6,9 @@
 
 [[Project Page]](https://t2i-mirror-object.github.io/site/) [[Paper]](<!-- TODO: add arXiv link -->)
 
-<!-- TODO: add a teaser figure here -->
-<!-- ![Teaser](assets/teaser.png) -->
+<p align="center">
+  <img src="assets/conditioning-strategies.png" width="100%">
+</p>
 
 PhysMirror is a three-stage pipeline that generates photorealistic images with
 physically plausible mirror reflections from text prompts. Unlike standard
@@ -15,20 +16,6 @@ text-to-image models that struggle with correct mirror geometry, PhysMirror
 explicitly constructs a 3D scene with objects and a mirror, renders a
 physics-based depth map, and uses it to condition a diffusion model for
 high-quality image generation.
-
-**Pipeline overview:**
-
-```
-Text Prompt ──► Stage 1: Text → 3D Mesh (Trellis)
-                    │
-                    ▼
-              Stage 2: Scene Composition → Depth Map
-                    │   (objects + mirror + camera)
-                    ▼
-              Stage 3: Depth Map → Image (FLUX + OminiControl)
-```
-
----
 
 ## Repository Structure
 
