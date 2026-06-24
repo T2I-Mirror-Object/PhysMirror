@@ -1,14 +1,21 @@
-# PhysMirror
+# [IROS 2026] PhysMirror: Physics-Aware Mirror Object Generation
 
-**PhysMirror: Physics-Informed Scene Modeling for Generating Mirror Reflections with Text-to-Image Diffusion Models**
+<div align="center">
+  <a href="https://duyphuc0701.github.io/PhysMirror/"><img src="https://img.shields.io/badge/Project-Page-green.svg" alt="Project Page"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper arXiv"></a> <!-- TODO: add arXiv link -->
+</div>
 
-*Accepted at IROS 2026*
-
-[[Project Page]](https://t2i-mirror-object.github.io/site/) [[Paper]](<!-- TODO: add arXiv link -->)
+<br>
 
 <p align="center">
-  <img src="assets/conditioning-strategies.png" width="100%">
+  <img src="assets/conditioning-strategies.png" width="90%">
 </p>
+
+## News
+
+- **2026-06-16**: PhysMirror is accepted by IROS 2026🎉🎉🎉.
+
+## Overview
 
 PhysMirror is a three-stage pipeline that generates photorealistic images with
 physically plausible mirror reflections from text prompts. Unlike standard
@@ -272,10 +279,10 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @inproceedings{physmirror2026,
-    title     = {PhysMirror: Physics-Informed Scene Modeling for Generating Mirror Reflections with Text-to-Image Diffusion Models},
-    author    = {<!-- TODO: add authors -->},
-    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-    year      = {2026}
+  author = {Mai, Xuan-Bach and Nguyen, Duy-Phuc and Le, Quoc-Van and Nguyen, Tam V. and Do, Thanh-Toan and Le, Huu and Nguyen, Duong-Van and Tran, Minh-Triet and Le, Trung-Nghia},
+  title = {PhysMirror: Physics-Aware Mirror Object Generation},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year = {2026},
 }
 ```
 
@@ -283,4 +290,5 @@ If you find this work useful, please cite our paper:
 
 ## License
 
-<!-- TODO: add license information -->
+This repository is licensed under the **CC BY-NC: Creative Commons Attribution-Noncommercial** license.
+
