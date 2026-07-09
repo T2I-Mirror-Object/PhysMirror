@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://duyphuc0701.github.io/PhysMirror/"><img src="https://img.shields.io/badge/Project-Page-green.svg" alt="Project Page"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper arXiv"></a> <!-- TODO: add arXiv link -->
+  <a href="https://arxiv.org/abs/2607.03470"><img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper arXiv"></a>
 </div>
 
 <br>
